@@ -1,0 +1,8 @@
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\bin\Debug\UCSpoofer.exe.config
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\bin\Debug\UCSpoofer.exe
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\bin\Debug\UCSpoofer.pdb
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\obj\Debug\UCSpoofer.csproj.AssemblyReference.cache
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\obj\Debug\UCSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\obj\Debug\UCSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\obj\Debug\UCSpoofer.exe
+C:\Users\Starkk\source\repos\UCSpoofer\UCSpoofer\obj\Debug\UCSpoofer.pdb
